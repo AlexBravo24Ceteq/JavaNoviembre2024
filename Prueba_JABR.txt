@@ -1,2 +1,7 @@
 Hola Mundo
 Jorge Alejandro
+Integramos nuevos cambios
+
+nuevos métodos
+nuevos saltos de linea
+y los guardo
