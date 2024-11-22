@@ -1,0 +1,19 @@
+- Hacer estadísticas de los usuarios  
+- Ver usuarios activos  
+- Tomar en cuenta le fecha de término de la membresía para enviar email a los que no han efectuado el pago o está próximo a vencer.  
+- Tener un censo de toda latinoamérica (Profesores miembros  
+- Movilidad de profesores  
+- Mostrar información en lo que trabajan los profesores.  
+- Dashboard (Estadísitcas)  
+- CRUD de miembros  
+- Histórico de miembros  
+- CRUD áreas de trabajo  
+- Listado de usuarios activos  
+- Notificación de término de membresía  
+- Buscador de miembros  
+-  
+- ## Propuesta  
+- Arquitectura  
+	- Dado que no sé prevé un crecimiento o una plataforma de alta demanda, una opción de arquitectura sería el módelo-vista-controlador pero adaptada a web.  
+
+Victor Miguel Terron Macias
